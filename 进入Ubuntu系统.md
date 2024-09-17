@@ -2,4 +2,4 @@
 
 在本次作业中，按照任务书中的流程下载20版本的Ubuntu系统出现了网卡不适配导致无法连接网络，在更新内核后显卡驱动又出现了问题导致仍然无法操作，添加补丁也无济于事，最后选择下载最新的24版Ubuntu系统来解决这个问题。结果如图：
 
-![e16f3290d24c175935459a41cd7087a](D:\HuaweiMoveData\Users\宇轩\Desktop\e16f3290d24c175935459a41cd7087a.png)
+![e16f3290d24c175935459a41cd7087a](D:\HuaweiMoveData\Users\宇轩\Desktop\e16f3290d24c175935459a41cd7087a.png)![Uploading e16f3290d24c175935459a41cd7087a.png…]()
